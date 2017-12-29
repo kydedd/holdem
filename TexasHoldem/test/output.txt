@@ -1,0 +1,89 @@
+Welcome to Texas Hold'em poker!
+You will face eight other players in this single table tournament.
+Everyone starts with $2000 and the blinds open at $10/$20.
+If you lose all of your money you are eliminated.
+Good luck!
+
+(S) Start new round
+(D) Display rankings
+(Q) Quit game
+>> [S|D|Q]: D
+
+1. Avery[$2000]
+2. Brian[$2000]
+3. Cindy[$2000]
+4. David[$2000]
+5. Elise[$2000]
+6. Frank[$2000]
+7. Grace[$2000]
+8. Henry[$2000]
+9. Player[$2000]
+
+(S) Begin new round
+(D) Display rankings
+(Q) Quit game
+>> [S|D|Q]: S
+
+-------------- Round #1 --------------
+Avery[$1990] posts small blind $10
+Brian[$1980] posts big blind $20
+Pot: $30
+
+Dealer deals hole cards...
+Player cards: As Kd
+
+Cindy[$2000] Folds
+David[$1980] Calls $20
+Pot: $50
+Elise[$2000] Folds
+Frank[$2000] Folds
+Grace[$1960] Raises $40
+Pot: $90
+Henry[$2000] Folds
+Player[$2000] [F|C|R]: C
+Player[$1960] Calls $40
+Pot: $130
+Avery[$1990] Folds
+Brian[$1960] Calls $40
+Pot: $150
+David[$1960] Calls $40
+Pot: $170
+
+Dealer deals flop: 8c Kh 10c
+Brian[$1960] Checks
+David[$1960] Checks
+Grace[$1870] Bets $120
+Pot: $290
+Player[$1960] [F|C|R] 360
+Player[$1600] Raises $360
+Pot: $650
+Brian[$1960] Folds
+David[$1960] Folds
+Grace[$1870] Folds
+Player[$2250] wins main pot $650
+------------ End Round #1 ------------
+
+(S) Start new round
+(D) Display rankings
+(Q) Quit game
+>> [S|D|Q]: D
+
+1. Player[$2250]
+2. Cindy[$2000]
+3. Elise[$2000]
+4. Frank[$2000]
+5. Henry[$2000]
+6. Avery[$1990]
+7. Brain[$1960]
+8. David[$1960]
+9. Grace[$1870]
+
+(S) Start new round
+(D) Display rankings
+(Q) Quit game
+>> [S|D|Q]: Q
+
+Are you sure you want to quit?
+(Y) Yes
+(C) Cancel
+>> [Y|C]: Y

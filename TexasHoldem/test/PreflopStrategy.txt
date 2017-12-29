@@ -1,0 +1,57 @@
+Group 0:
+AA
+KK
+
+Group 1:
+QQ
+JJ
+AKs
+
+Group 2:
+TT
+AK
+AQs
+AJs
+KQs
+
+Group 3:
+AQ
+99
+88
+77
+ATs
+KJs
+
+Group 4:
+AJ
+KQ
+QJs
+KTs
+JTs
+AT
+
+Group 5:
+66
+55
+44
+33
+22
+KJ
+QTs
+A9s
+A8s
+QJ
+
+Group 6:
+KT
+QT
+JT
+A7s
+K9s
+Q9s
+T9s
+A5s
+A6s
+A4s
+A3s
+A2s
